@@ -8,12 +8,6 @@ header {
     
 }
 
-h1{
-    font-family: "Press Start 2p";
-    color: #FFF;
-    text-shadow: 5px 5px 0 #000;
-}
-
 a {
     display: inline-flex;
     align-items: center;
@@ -50,3 +44,4 @@ text-align: right;
     background: rgb(117, 60, 170);
     transform: scale(1.05);
 }
+
